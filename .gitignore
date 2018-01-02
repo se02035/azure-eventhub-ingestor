@@ -2,4 +2,9 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs
+
+/src/EhIntegest/EhIngest.TplDataFlow/bin/**
+/src/EhIntegest/EhIngest.TplDataFlow/obj/**
+/src/EhIntegest/packages/**
+/.vs/**
+/src/EhIntegest/.vs/**/
